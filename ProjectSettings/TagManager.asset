@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,29 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Bg_Sky
+    uniqueID: 3806848957
+    locked: 0
+  - name: Bg_FarClouds
+    uniqueID: 1912564517
+    locked: 0
+  - name: Bg_NearClouds
+    uniqueID: 422293105
+    locked: 0
+  - name: Bg_Far
+    uniqueID: 1551855427
+    locked: 0
+  - name: Bg_Mid
+    uniqueID: 3970845659
+    locked: 0
+  - name: Bg_Near
+    uniqueID: 569826251
+    locked: 0
+  - name: Bg_Tracks
+    uniqueID: 90087921
+    locked: 0
+  - name: Train
+    uniqueID: 592326871
+    locked: 0
+  m_RenderingLayers:
+  - Default
